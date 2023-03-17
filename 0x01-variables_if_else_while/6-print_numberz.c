@@ -15,7 +15,7 @@ while (n <= 10)
 putchar(n);
 n += 1;
 }
-putchar("\n");
+printf("\n");
 return (0);
 }
 
