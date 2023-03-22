@@ -9,7 +9,7 @@
 int main(void)
 {
 	int n = 0;
-	char str_hbt[8] = "_putchar";
+	char str_hbt[7] = "_putchar";
 
 	while (n < 9)
 	{
