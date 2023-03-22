@@ -1,7 +1,7 @@
-#include "holberton.h"
+#include "main.h"
 
 /**
- * main - program that prints _putchar.
+ * main - program that prints Holberton.
  *
  * Return: int
  */
@@ -9,7 +9,7 @@
 int main(void)
 {
 	int n = 0;
-	char str_putchar[8] = "Holberton";
+	char str_hbt[8] = "_putchar";
 
 	while (n < 9)
 	{
